@@ -12,7 +12,7 @@ This project checks the sentiment of the text given to the "/analyzer" endpoint.
 run the server with these commands
 
 ```bash
-  python -m pip install setfit 
+  python -m pip install setfit (install once)
 
   cd spekterApi
   
